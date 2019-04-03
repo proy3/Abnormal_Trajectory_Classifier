@@ -2,8 +2,8 @@
 This repository contains the source code of some published articles related to the detection of abnormal trajectories of moving objects in surveillance videos using unsupervised machine learning approaches.
 
 The following sub reposities contains source code for the following papers:
-- DAE_Method: contains code for the ISVC'18 article [Road User Abnormal Trajectory Detection using a Deep Autoencoder](https://arxiv.org/abs/1809.00957).
-- ALREC_Method: contains code for the CRV'19 article [Adversarially Learned Abnormal Trajectory Classifier](https://arxiv.org/abs/1903.11040v1).
+- DAE_Method: contains code for the ISVC'18 article [Road User Abnormal Trajectory Detection using a Deep Autoencoder](https://arxiv.org/pdf/1809.00957.pdf) by Pankaj Raj Roy and Guillaume-Alexandre Bilodeau.
+- ALREC_Method: contains code for the CRV'19 article [Adversarially Learned Abnormal Trajectory Classifier](https://arxiv.org/pdf/1903.11040v1.pdf) by Pankaj Raj Roy and Guillaume-Alexandre Bilodeau.
 
 
 # Library based Dependencies:
